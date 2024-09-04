@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository will contain legacy EXE activities that are compatible with the latest version of Automation Platform.  
+This repository contains legacy EXE activities that are compatible with the latest version of Automation Platform.  
 Current latest version with breaking changes is Automation Platform **3.15.0**.
 > The recommandation is to replace activities using EXE with PS1 activities.
 
